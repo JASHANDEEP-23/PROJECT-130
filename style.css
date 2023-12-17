@@ -1,0 +1,58 @@
+body{
+    background-size: cover;
+}
+#left{
+    float: left;
+    
+}
+#right{
+    float: right;
+}
+h3{
+    font-size:35px ;
+    font-weight: bolder;
+    font-style: italic;
+    width: 70%;
+    padding: 15px;
+    border-radius: 10px;
+
+}
+.note{
+    font-size:20px ;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px;
+    color: darkred;
+}
+
+button{
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 15px;
+}
+img{
+width: 250px;
+height: 250px;
+border-radius: 50%;
+  
+}
+
+
+canvas{
+    
+    border: 8px ridge steelblue ;
+    border-radius: 5px;
+    margin-top: 150px;
+}
+
+#footer{
+    background-color: aquamarine;
+   position: fixed;
+   bottom:10px;
+   color: maroon;
+   font-size: 20px;
+   font-weight: bold;
+   left: 10px;
+   padding: 5px;
+   box-shadow: 10px 10px 30px whitesmoke;
+}
